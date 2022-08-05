@@ -1,3 +1,5 @@
+# Author: Endri Dibra
+
 # Using the required libraries
 from textblob import TextBlob as tb
 
